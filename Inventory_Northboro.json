@@ -1,0 +1,47 @@
+{
+	"Milk": {
+		"SKUID": 101,
+		"ITEM": "Milk",
+		"ISLE": "A1",
+		"QUANTITY": 68,
+		"PRICE": 2.49,
+		"UNIT": "Gallon",
+		"TOTAL SALES": 29.88
+	},
+	"Eggs": {
+		"SKUID": 102,
+		"ITEM": "Eggs",
+		"ISLE": "A2",
+		"QUANTITY": 35,
+		"PRICE": 1.32,
+		"UNIT": "Tray",
+		"TOTAL SALES": 6.6
+	},
+	"Bread": {
+		"SKUID": 103,
+		"ITEM": "Bread",
+		"ISLE": "A3",
+		"QUANTITY": 45,
+		"PRICE": 1.32,
+		"UNIT": "Loaf",
+		"TOTAL SALES": 6.6
+	},
+	"Coffee": {
+		"SKUID": 104,
+		"ITEM": "Coffee",
+		"ISLE": "B4",
+		"QUANTITY": 76,
+		"PRICE": 1.49,
+		"UNIT": "Cup",
+		"TOTAL SALES": 20.86
+	},
+	"Juice": {
+		"SKUID": 105,
+		"ITEM": "Juice",
+		"ISLE": "B5",
+		"QUANTITY": 125,
+		"PRICE": 1.1,
+		"UNIT": "Cup",
+		"TOTAL SALES": 44.0
+	}
+}
